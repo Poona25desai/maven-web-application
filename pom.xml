@@ -17,7 +17,7 @@
 	</organization>
 
 	<properties>
-		<sonar.host.url>http://15.206.93.117:9000/</sonar.host.url>
+		<sonar.host.url>http://13.201.86.251:9000/</sonar.host.url>
                 <sonar.token>squ_fcb4908afc4e4d393332b1f8fb5af3e0e7c7622a</sonar.token>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
@@ -97,13 +97,13 @@
 	    <repository>
 	        <id>nexus</id>
 	        <name>HDFC Release Repository</name>
-	        <url>http://13.233.94.21:8081/repository/HDFC-Release-Repo/</url>
+	        <url>http://43.205.253.178:8081/repository/HDFC-Release-Repo/</url>
 	    </repository>
 		
 	    <snapshotRepository>
 	        <id>nexus</id>
 	        <name>HDFC Snapshot Repository</name>
-	        <url>http://13.233.94.21:8081/repository/HDFC-Snapshot-Repo/</url>
+	        <url>http://43.205.253.178:8081/repository/HDFC-Snapshot-Repo/</url>
 	    </snapshotRepository>
 		
 	</distributionManagement>
